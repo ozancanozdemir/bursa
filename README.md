@@ -1,7 +1,6 @@
 # bursa
 
 <img src="https://github.com/ozancanozdemir/bursa/assets/33122288/da50adfe-0778-49c2-8660-b75c0dc57014" width="200">
-![logo](https://github.com/ozancanozdemir/bursa/assets/33122288/da50adfe-0778-49c2-8660-b75c0dc57014)
 
 
 This package is developed to access the datasets in [Bursa Open Data Portal](https://acikyesil.bursa.bel.tr/)
