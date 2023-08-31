@@ -1,0 +1,6 @@
+.onAttach <- function(libname, pkgname) {
+  # ...
+  packageStartupMessage("Welcome to bursa package!\nThis is an unofficial R package for Bursa Municipality Open Data Portal.\nFor more information, you can visit https://acikyesil.bursa.bel.tr/")
+
+  # ...
+}
